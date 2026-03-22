@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F713B5&center=true&vCenter=true&repeat=false&random=true&width=435&lines=hi!+I+am+JunLa.+AI+Prompt+Engineer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F713B5&vCenter=true&repeat=false&random=true&width=435&lines=+++++++++++++welcome+to+my+blog!!!+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
+### messages
+  <p>
+    <code>🌱 Born 2007-4-18</code>
+    <code>📍 Across China / Remote.</code>
+  </p>
 ### Linked
 <p>
   <a href="https://leetcode.cn/u/59PaLAHQaF/">
