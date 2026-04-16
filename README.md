@@ -1,6 +1,7 @@
 # Hi I am JunLa
 
-<img align="right" src="https://count.getloli.com/get/@a?theme=booru-twifanartsfw&scale=1.1" alt="JunLa" width="400"/>
+<!-- <img align="right" src="https://count.getloli.com/get/@a?theme=booru-twifanartsfw&scale=1.1" alt="JunLa" width="400"/> -->
+https://count.getloli.com/@JunL-a?name=JunL-a&theme=booru-helltaker&padding=1&offset=0&align=top&scale=1.1&pixelated=1&darkmode=auto
 
 ### messages
   <p>
