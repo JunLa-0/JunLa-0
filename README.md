@@ -1,5 +1,4 @@
 # Hi I am JunLa
------
 
 <img align="right" src="https://count.getloli.com/get/@0?theme=booru-koe&scale=1.1" alt="JunLa" width="400"/>
 
@@ -27,3 +26,23 @@
     <img src="https://img.shields.io/badge/CSDN%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
   </a>
 </p>
+
+<!-- 可爱工具图标：放在像素小人下方右侧 -->
+<div align="left" style="margin-right: 20px; margin-top: 10px;">
+  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" />
+  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" />
+  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" />
+</div>
+
+
+<div align="center" style="margin: 20px 0; width: 100%;">
+  <picture>
+    <!-- 深色主题显示深色版贪吃蛇 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake-dark.svg">
+    <!-- 浅色主题显示浅色版贪吃蛇 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg">
+    <!-- 兜底显示浅色版 -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+  </picture>
+</div>
+
