@@ -2,10 +2,10 @@
 
 <img align="right" src="https://count.getloli.com/get/@0?theme=booru-koe&scale=1.1" alt="JunLa" width="400"/>
 
-[![Java](https://img.shields.io/badge/Java-ED8080?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-0000FF?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring-cloud&logoColor=white)](https://spring.io/projects/spring-cloud)
-[![MyBatis-Plus](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)](https://baomidou.com/)
+[![MyBatis-Plus](https://img.shields.io/badge/MyBatis_plus-000000?style=flat-square&logo=mybatis&logoColor=white)](https://baomidou.com/)
 [![Netty](https://img.shields.io/badge/Netty-009933?style=flat-square&logo=netty&logoColor=white)](https://netty.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
 
