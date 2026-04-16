@@ -1,6 +1,6 @@
 # Hi I am JunLa
 
-<img align="right" src="https://count.getloli.com/get/@JunLa-0?theme=food&scale=1.1" alt="JunLa" width="400"/>
+<img align="right" src="https://count.getloli.com/get/@JunLa-0?theme=booru-koe&scale=1.1" alt="JunLa" width="400"/>
 
 ### messages
   <p>
