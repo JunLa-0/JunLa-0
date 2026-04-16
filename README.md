@@ -1,6 +1,6 @@
 # Hi I am JunLa
 
-<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
+<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=3d-num&scale=1.1" alt="blackirlsama" width="400"/>
 
 ### messages
   <p>
