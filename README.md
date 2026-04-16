@@ -2,7 +2,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@0?theme=booru-koe&scale=1.1" alt="JunLa" width="400"/>
 
-[![Java](https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-ED8080?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring-cloud&logoColor=white)](https://spring.io/projects/spring-cloud)
 [![MyBatis-Plus](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)](https://baomidou.com/)
