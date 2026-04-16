@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F713B5&center=true&vCenter=true&repeat=false&random=true&width=435&lines=hi!+I+am+JunLa.+AI+Prompt+Engineer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F713B5&vCenter=true&repeat=false&random=true&width=435&lines=+++++++++++++welcome+to+my+blog!!!+%F0%9F%8C%8D)](https://git.io/typing-svg)
+# Hi I am JunLa
+
+<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
 
 ### messages
   <p>
